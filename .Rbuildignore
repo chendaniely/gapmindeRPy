@@ -1,3 +1,7 @@
 ^gapmindeRPy\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+
+^gapmindeRPy$
+^setup.py$
+^gapmindeRPy.egg-info$
