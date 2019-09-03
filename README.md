@@ -49,3 +49,9 @@ Out[2]:
 [1704 rows x 6 columns]
 
 ```
+
+# Thanks
+
+- https://github.com/jennybc/gapminder
+- https://github.com/jstaf/gapminder
+
